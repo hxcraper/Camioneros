@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wb+v3G+nKtk6+RkCBTw4AR6gBz31P7ZOJrejfOtQ3lQR1N35jGERll8O61Zae6RHbDCT0fVF+EP9uKOEpMctQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kike\\Downloads\\EPE3\\EPE3\\AplicacionCamionero\\Mysql.Data\\Mysql.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kike\\.nuget\\packages\\dapper\\2.1.21\\dapper.2.1.21.nupkg.sha512",
+    "C:\\Users\\kike\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\kike\\.nuget\\packages\\mysqlconnector\\2.3.1\\mysqlconnector.2.3.1.nupkg.sha512",
+    "C:\\Users\\kike\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.2\\system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512",
+    "C:\\Users\\kike\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

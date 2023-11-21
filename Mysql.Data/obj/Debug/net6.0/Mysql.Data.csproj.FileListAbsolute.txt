@@ -1,0 +1,45 @@
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\AplicacionCamionero\Mysql.Data\bin\Debug\net6.0\Mysql.Data.deps.json
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\AplicacionCamionero\Mysql.Data\bin\Debug\net6.0\Mysql.Data.dll
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\AplicacionCamionero\Mysql.Data\bin\Debug\net6.0\Mysql.Data.pdb
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\AplicacionCamionero\Mysql.Data\bin\Debug\net6.0\MySql.model.dll
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\AplicacionCamionero\Mysql.Data\bin\Debug\net6.0\MySql.model.pdb
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\AplicacionCamionero\Mysql.Data\obj\Debug\net6.0\Mysql.Data.csproj.AssemblyReference.cache
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\AplicacionCamionero\Mysql.Data\obj\Debug\net6.0\Mysql.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\AplicacionCamionero\Mysql.Data\obj\Debug\net6.0\Mysql.Data.AssemblyInfoInputs.cache
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\AplicacionCamionero\Mysql.Data\obj\Debug\net6.0\Mysql.Data.AssemblyInfo.cs
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\AplicacionCamionero\Mysql.Data\obj\Debug\net6.0\Mysql.Data.csproj.CoreCompileInputs.cache
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\AplicacionCamionero\Mysql.Data\obj\Debug\net6.0\Mysql.Data.csproj.CopyComplete
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\AplicacionCamionero\Mysql.Data\obj\Debug\net6.0\Mysql.Data.dll
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\AplicacionCamionero\Mysql.Data\obj\Debug\net6.0\refint\Mysql.Data.dll
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\AplicacionCamionero\Mysql.Data\obj\Debug\net6.0\Mysql.Data.pdb
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\AplicacionCamionero\Mysql.Data\obj\Debug\net6.0\ref\Mysql.Data.dll
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\EPE3\AplicacionCamionero\Mysql.Data\bin\Debug\net6.0\Mysql.Data.deps.json
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\EPE3\AplicacionCamionero\Mysql.Data\bin\Debug\net6.0\Mysql.Data.dll
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\EPE3\AplicacionCamionero\Mysql.Data\bin\Debug\net6.0\Mysql.Data.pdb
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\EPE3\AplicacionCamionero\Mysql.Data\bin\Debug\net6.0\MySql.model.dll
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\EPE3\AplicacionCamionero\Mysql.Data\bin\Debug\net6.0\MySql.model.pdb
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\EPE3\AplicacionCamionero\Mysql.Data\obj\Debug\net6.0\Mysql.Data.csproj.AssemblyReference.cache
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\EPE3\AplicacionCamionero\Mysql.Data\obj\Debug\net6.0\Mysql.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\EPE3\AplicacionCamionero\Mysql.Data\obj\Debug\net6.0\Mysql.Data.AssemblyInfoInputs.cache
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\EPE3\AplicacionCamionero\Mysql.Data\obj\Debug\net6.0\Mysql.Data.AssemblyInfo.cs
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\EPE3\AplicacionCamionero\Mysql.Data\obj\Debug\net6.0\Mysql.Data.csproj.CoreCompileInputs.cache
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\EPE3\AplicacionCamionero\Mysql.Data\obj\Debug\net6.0\Mysql.Data.csproj.CopyComplete
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\EPE3\AplicacionCamionero\Mysql.Data\obj\Debug\net6.0\Mysql.Data.dll
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\EPE3\AplicacionCamionero\Mysql.Data\obj\Debug\net6.0\refint\Mysql.Data.dll
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\EPE3\AplicacionCamionero\Mysql.Data\obj\Debug\net6.0\Mysql.Data.pdb
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\EPE3\AplicacionCamionero\Mysql.Data\obj\Debug\net6.0\ref\Mysql.Data.dll
+C:\Users\kike\Downloads\EPE3\EPE3\AplicacionCamionero\Mysql.Data\bin\Debug\net6.0\Mysql.Data.deps.json
+C:\Users\kike\Downloads\EPE3\EPE3\AplicacionCamionero\Mysql.Data\bin\Debug\net6.0\Mysql.Data.dll
+C:\Users\kike\Downloads\EPE3\EPE3\AplicacionCamionero\Mysql.Data\bin\Debug\net6.0\Mysql.Data.pdb
+C:\Users\kike\Downloads\EPE3\EPE3\AplicacionCamionero\Mysql.Data\bin\Debug\net6.0\MySql.model.dll
+C:\Users\kike\Downloads\EPE3\EPE3\AplicacionCamionero\Mysql.Data\bin\Debug\net6.0\MySql.model.pdb
+C:\Users\kike\Downloads\EPE3\EPE3\AplicacionCamionero\Mysql.Data\obj\Debug\net6.0\Mysql.Data.csproj.AssemblyReference.cache
+C:\Users\kike\Downloads\EPE3\EPE3\AplicacionCamionero\Mysql.Data\obj\Debug\net6.0\Mysql.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kike\Downloads\EPE3\EPE3\AplicacionCamionero\Mysql.Data\obj\Debug\net6.0\Mysql.Data.AssemblyInfoInputs.cache
+C:\Users\kike\Downloads\EPE3\EPE3\AplicacionCamionero\Mysql.Data\obj\Debug\net6.0\Mysql.Data.AssemblyInfo.cs
+C:\Users\kike\Downloads\EPE3\EPE3\AplicacionCamionero\Mysql.Data\obj\Debug\net6.0\Mysql.Data.csproj.CoreCompileInputs.cache
+C:\Users\kike\Downloads\EPE3\EPE3\AplicacionCamionero\Mysql.Data\obj\Debug\net6.0\Mysql.Data.csproj.CopyComplete
+C:\Users\kike\Downloads\EPE3\EPE3\AplicacionCamionero\Mysql.Data\obj\Debug\net6.0\Mysql.Data.dll
+C:\Users\kike\Downloads\EPE3\EPE3\AplicacionCamionero\Mysql.Data\obj\Debug\net6.0\refint\Mysql.Data.dll
+C:\Users\kike\Downloads\EPE3\EPE3\AplicacionCamionero\Mysql.Data\obj\Debug\net6.0\Mysql.Data.pdb
+C:\Users\kike\Downloads\EPE3\EPE3\AplicacionCamionero\Mysql.Data\obj\Debug\net6.0\ref\Mysql.Data.dll

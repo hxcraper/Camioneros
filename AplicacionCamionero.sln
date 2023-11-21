@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AplicacionCamionero", "AplicacionCamionero\AplicacionCamionero.csproj", "{65AD532F-834B-40C1-9F64-AD64035A2620}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mysql.Data", "Mysql.Data\Mysql.Data.csproj", "{E01975A2-AAAB-4632-B6F5-EB5388925E8B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MySql.model", "MySql.model\MySql.model.csproj", "{E870BCB9-4EB9-47B9-9F11-F3245E67139B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E73E3A63-22E6-47FA-80B6-06F52A1C7227}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65AD532F-834B-40C1-9F64-AD64035A2620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65AD532F-834B-40C1-9F64-AD64035A2620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65AD532F-834B-40C1-9F64-AD64035A2620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65AD532F-834B-40C1-9F64-AD64035A2620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E01975A2-AAAB-4632-B6F5-EB5388925E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E01975A2-AAAB-4632-B6F5-EB5388925E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E01975A2-AAAB-4632-B6F5-EB5388925E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E01975A2-AAAB-4632-B6F5-EB5388925E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E870BCB9-4EB9-47B9-9F11-F3245E67139B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E870BCB9-4EB9-47B9-9F11-F3245E67139B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E870BCB9-4EB9-47B9-9F11-F3245E67139B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E870BCB9-4EB9-47B9-9F11-F3245E67139B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B9E9CB9-4EBF-4F7C-AFCB-D3E96A18C688}
+	EndGlobalSection
+EndGlobal

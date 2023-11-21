@@ -1,0 +1,33 @@
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\AplicacionCamionero\MySql.model\bin\Debug\net6.0\MySql.model.deps.json
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\AplicacionCamionero\MySql.model\bin\Debug\net6.0\MySql.model.dll
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\AplicacionCamionero\MySql.model\bin\Debug\net6.0\MySql.model.pdb
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\AplicacionCamionero\MySql.model\obj\Debug\net6.0\MySql.model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\AplicacionCamionero\MySql.model\obj\Debug\net6.0\MySql.model.AssemblyInfoInputs.cache
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\AplicacionCamionero\MySql.model\obj\Debug\net6.0\MySql.model.AssemblyInfo.cs
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\AplicacionCamionero\MySql.model\obj\Debug\net6.0\MySql.model.csproj.CoreCompileInputs.cache
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\AplicacionCamionero\MySql.model\obj\Debug\net6.0\MySql.model.dll
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\AplicacionCamionero\MySql.model\obj\Debug\net6.0\refint\MySql.model.dll
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\AplicacionCamionero\MySql.model\obj\Debug\net6.0\MySql.model.pdb
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\AplicacionCamionero\MySql.model\obj\Debug\net6.0\ref\MySql.model.dll
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\EPE3\AplicacionCamionero\MySql.model\bin\Debug\net6.0\MySql.model.deps.json
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\EPE3\AplicacionCamionero\MySql.model\bin\Debug\net6.0\MySql.model.dll
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\EPE3\AplicacionCamionero\MySql.model\bin\Debug\net6.0\MySql.model.pdb
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\EPE3\AplicacionCamionero\MySql.model\obj\Debug\net6.0\MySql.model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\EPE3\AplicacionCamionero\MySql.model\obj\Debug\net6.0\MySql.model.AssemblyInfoInputs.cache
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\EPE3\AplicacionCamionero\MySql.model\obj\Debug\net6.0\MySql.model.AssemblyInfo.cs
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\EPE3\AplicacionCamionero\MySql.model\obj\Debug\net6.0\MySql.model.csproj.CoreCompileInputs.cache
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\EPE3\AplicacionCamionero\MySql.model\obj\Debug\net6.0\MySql.model.dll
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\EPE3\AplicacionCamionero\MySql.model\obj\Debug\net6.0\refint\MySql.model.dll
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\EPE3\AplicacionCamionero\MySql.model\obj\Debug\net6.0\MySql.model.pdb
+C:\Users\ariel\OneDrive\Escritorio\IPCHILE\4 semestre\tALLE aPP.neT\EPE3\AplicacionCamionero\MySql.model\obj\Debug\net6.0\ref\MySql.model.dll
+C:\Users\kike\Downloads\EPE3\EPE3\AplicacionCamionero\MySql.model\bin\Debug\net6.0\MySql.model.deps.json
+C:\Users\kike\Downloads\EPE3\EPE3\AplicacionCamionero\MySql.model\bin\Debug\net6.0\MySql.model.dll
+C:\Users\kike\Downloads\EPE3\EPE3\AplicacionCamionero\MySql.model\bin\Debug\net6.0\MySql.model.pdb
+C:\Users\kike\Downloads\EPE3\EPE3\AplicacionCamionero\MySql.model\obj\Debug\net6.0\MySql.model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kike\Downloads\EPE3\EPE3\AplicacionCamionero\MySql.model\obj\Debug\net6.0\MySql.model.AssemblyInfoInputs.cache
+C:\Users\kike\Downloads\EPE3\EPE3\AplicacionCamionero\MySql.model\obj\Debug\net6.0\MySql.model.AssemblyInfo.cs
+C:\Users\kike\Downloads\EPE3\EPE3\AplicacionCamionero\MySql.model\obj\Debug\net6.0\MySql.model.csproj.CoreCompileInputs.cache
+C:\Users\kike\Downloads\EPE3\EPE3\AplicacionCamionero\MySql.model\obj\Debug\net6.0\MySql.model.dll
+C:\Users\kike\Downloads\EPE3\EPE3\AplicacionCamionero\MySql.model\obj\Debug\net6.0\refint\MySql.model.dll
+C:\Users\kike\Downloads\EPE3\EPE3\AplicacionCamionero\MySql.model\obj\Debug\net6.0\MySql.model.pdb
+C:\Users\kike\Downloads\EPE3\EPE3\AplicacionCamionero\MySql.model\obj\Debug\net6.0\ref\MySql.model.dll
